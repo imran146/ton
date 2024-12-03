@@ -1,7 +1,7 @@
 {
-  "name": "Dark Jetton",
-  "description": "This is a test Jetton. Developer is learning exploring Jetton :)",
-  "symbol": "DRK",
+  "name": "SRK Jetton",
+  "description": "Test Jetton",
+  "symbol": "SRK",
   "decimals": 9,
   "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
 }
