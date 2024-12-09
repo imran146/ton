@@ -1,0 +1,15 @@
+{
+  "description": "Exclusive reward! Visit @testbot to claim your mystery gift from Testbot Weekly!",
+  "name": "TestBot Weekly Gift!",
+  "image": "https://raw.githubusercontent.com/malifon/test/refs/heads/main/hamstr2.jpeg",
+  "attributes": [
+    {
+      "trait_type": "Verified",
+      "value": "True"
+    },
+    {
+      "trait_type": "Reward Type",
+      "value": "Mystery"
+    }
+  ]
+}
